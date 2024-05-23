@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee Shop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Captain Coffee</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#menu">Menu</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>Welcome to our cozy coffee shop! We offer a variety of coffee and pastries made with the freshest ingredients. Our shop is a perfect place to relax and enjoy a cup of coffee with friends or get some work done in a quiet atmosphere.</p>
+        </div>
+    </section>
+
+    <section id="menu">
+        <div class="container">
+            <h2>Our Menu</h2>
+            <div class="menu-item">
+                <img src="https://blogstudio.s3.theshoppad.net/coffeeheroau/ec178d83e5f597b162cda1e60cb64194.jpg" alt="Espresso">
+                <h3>Espresso</h3>
+                <p>A strong and bold coffee shot.</p>
+                <p>Price: $2.50</p>
+            </div>
+            <div class="menu-item">
+                <img src="https://www.netmeds.com/images/cms/wysiwyg/blog/Post/2018/10/coffee_its_benefits_898_1_.jpg" alt="Cappuccino">
+                <h3>Cappuccino</h3>
+                <p>A perfect blend of espresso, steamed milk, and foam.</p>
+                <p>Price: $3.50</p>
+            </div>
+            <div class="menu-item">
+                <img src="https://www.allrecipes.com/thmb/aAaKltGtttecKWn4uqK4ivZ6SPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/260904_HomemadeCaramelLatte_ddmfs_3x4_3967-de97df91d502475982fe4ae9299bcf3b.jpg" alt="Latte">
+                <h3>Latte</h3>
+                <p>A smooth and creamy coffee with steamed milk.</p>
+                <p>Price: $3.75</p>
+            </div>
+            <div class="menu-item">
+                <img src="https://www.thespruceeats.com/thmb/mouqNJc2-paHkBuRRuPU7ht_L4o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-mocha-4797918-hero-01-1-f8fb7ebd74914895b61366f6fc1d4b05.jpg" alt="Mocha">
+                <h3>Mocha</h3>
+                <p>Espresso with chocolate and steamed milk.</p>
+                <p>Price: $4.00</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <form id="contactForm">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" required><br><br>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br><br>
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" required></textarea><br><br>
+                <input type="submit" value="Send">
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Coffee Shop. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
