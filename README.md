@@ -19,7 +19,7 @@ Open the `index.html` file in your web browser to view the website locally. Modi
 
 ## ScreenShots
 ![c1](https://github.com/Abhishek22K/Coffee-Shop/assets/135554097/03eaf716-a12b-46d7-a99b-c1c1b996f342)
-![c2](https://github.com/Abhishek22K/Coffee-Shop/assets/135554097/465fec09-7fde-4a53-bf8e-fc4dede35770)
+![c2](https://github.com/Abhishek22K/Coffee-Shop/assets/135554097/ef6f999f-d617-45b7-966f-5c14926fb853)
 ![c3](https://github.com/Abhishek22K/Coffee-Shop/assets/135554097/97a55ee5-ed9b-4483-838e-c5f581364d90)
 
 
