@@ -22,6 +22,10 @@ Open the `index.html` file in your web browser to view the website locally. Modi
 ![c2](https://github.com/Abhishek22K/Coffee-Shop/assets/135554097/ef6f999f-d617-45b7-966f-5c14926fb853)
 ![c3](https://github.com/Abhishek22K/Coffee-Shop/assets/135554097/97a55ee5-ed9b-4483-838e-c5f581364d90)
 
+##Technical Requirements
+1. HTML5
+2. CSS3
+3. JavaScript
 
 ## Contributing
 We welcome contributions to enhance our coffee shop website! If you have suggestions, improvements, or bug fixes, please follow these steps:
